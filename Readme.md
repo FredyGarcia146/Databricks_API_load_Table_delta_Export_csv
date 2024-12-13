@@ -39,11 +39,13 @@ Creating Cluster of Computing
 
 ## Create process Load Api Table
 
-Example Creating account in :
+Example :
+
+Creating account in :
 
 https://www.weatherapi.com/
 
-use the password that the website will give you
+use the key that the website will give you
 
 ``` python
 key = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
@@ -59,7 +61,7 @@ else:
 
 ```
 
-* File : [All_Script_Load](/2024-12-12%20Api%20Whater%20History.ipynb)
+* File complete : [All_Script_Load](/2024-12-12%20Api%20Whater%20History.ipynb)
 
 
 ## Export CSV
@@ -87,7 +89,7 @@ dbutils.fs.mv(csv_part_file, "dbfs:/FileStore/data_weather_data_history_download
 dbutils.fs.rm("dbfs:/FileStore/data_weather_data_history", True)
 ```
 
-* File : [All_Script_Export](/2024-12-13%20Export%20csv.ipynb)
+* File complete: [All_Script_Export](/2024-12-13%20Export%20csv.ipynb)
 
 
 in other page paste:
