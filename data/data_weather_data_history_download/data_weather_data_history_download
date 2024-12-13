@@ -1,0 +1,49 @@
+name|region|country|lat|lon|tz_id|localtime_epoch|localtime|date|time_epoch|time|temp_c|temp_f|is_day|condition_text|condition_icon|condition_code
+Bogota|Cundinamarca|Colombia|4.6|-74.0833|America/Bogota|1734072532|2024-12-13 01:48|2024-12-13|1734109200|2024-12-13 12:00|18.3|65.0|1|Patchy rain possible|//cdn.weatherapi.com/weather/64x64/day/176.png|1063
+Bogota|Cundinamarca|Colombia|4.6|-74.0833|America/Bogota|1734072532|2024-12-13 01:48|2024-12-13|1734112800|2024-12-13 13:00|17.8|64.1|1|Patchy rain possible|//cdn.weatherapi.com/weather/64x64/day/176.png|1063
+Bogota|Cundinamarca|Colombia|4.6|-74.0833|America/Bogota|1734072532|2024-12-13 01:48|2024-12-13|1734116400|2024-12-13 14:00|17.5|63.5|1|Patchy rain possible|//cdn.weatherapi.com/weather/64x64/day/176.png|1063
+Bogota|Cundinamarca|Colombia|4.6|-74.0833|America/Bogota|1734072532|2024-12-13 01:48|2024-12-13|1734120000|2024-12-13 15:00|17.2|62.9|1|Patchy rain possible|//cdn.weatherapi.com/weather/64x64/day/176.png|1063
+Bogota|Cundinamarca|Colombia|4.6|-74.0833|America/Bogota|1734072532|2024-12-13 01:48|2024-12-13|1734123600|2024-12-13 16:00|16.7|62.1|1|Patchy rain possible|//cdn.weatherapi.com/weather/64x64/day/176.png|1063
+Bogota|Cundinamarca|Colombia|4.6|-74.0833|America/Bogota|1734072532|2024-12-13 01:48|2024-12-13|1734127200|2024-12-13 17:00|15.5|59.9|1|Patchy rain possible|//cdn.weatherapi.com/weather/64x64/day/176.png|1063
+Lima|Lima|Peru|-12.05|-77.05|America/Lima|1734073870|2024-12-13 02:11|2024-12-13|1734066000|2024-12-13 00:00|19.1|66.3|0|Partly cloudy|//cdn.weatherapi.com/weather/64x64/night/116.png|1003
+Lima|Lima|Peru|-12.05|-77.05|America/Lima|1734073870|2024-12-13 02:11|2024-12-13|1734069600|2024-12-13 01:00|19.0|66.2|0|Partly cloudy|//cdn.weatherapi.com/weather/64x64/night/116.png|1003
+Lima|Lima|Peru|-12.05|-77.05|America/Lima|1734073870|2024-12-13 02:11|2024-12-13|1734073200|2024-12-13 02:00|18.9|66.1|0|Partly cloudy|//cdn.weatherapi.com/weather/64x64/night/116.png|1003
+Lima|Lima|Peru|-12.05|-77.05|America/Lima|1734073870|2024-12-13 02:11|2024-12-13|1734076800|2024-12-13 03:00|18.8|65.8|0|Partly cloudy|//cdn.weatherapi.com/weather/64x64/night/116.png|1003
+Lima|Lima|Peru|-12.05|-77.05|America/Lima|1734073870|2024-12-13 02:11|2024-12-13|1734080400|2024-12-13 04:00|18.7|65.7|0|Partly cloudy|//cdn.weatherapi.com/weather/64x64/night/116.png|1003
+Lima|Lima|Peru|-12.05|-77.05|America/Lima|1734073870|2024-12-13 02:11|2024-12-13|1734084000|2024-12-13 05:00|18.8|65.8|0|Partly cloudy|//cdn.weatherapi.com/weather/64x64/night/116.png|1003
+Bogota|Cundinamarca|Colombia|4.6|-74.0833|America/Bogota|1734072532|2024-12-13 01:48|2024-12-13|1734130800|2024-12-13 18:00|12.7|54.9|0|Patchy rain possible|//cdn.weatherapi.com/weather/64x64/night/176.png|1063
+Bogota|Cundinamarca|Colombia|4.6|-74.0833|America/Bogota|1734072532|2024-12-13 01:48|2024-12-13|1734134400|2024-12-13 19:00|11.9|53.4|0|Partly cloudy|//cdn.weatherapi.com/weather/64x64/night/116.png|1003
+Bogota|Cundinamarca|Colombia|4.6|-74.0833|America/Bogota|1734072532|2024-12-13 01:48|2024-12-13|1734138000|2024-12-13 20:00|11.4|52.6|0|Clear|//cdn.weatherapi.com/weather/64x64/night/113.png|1000
+Bogota|Cundinamarca|Colombia|4.6|-74.0833|America/Bogota|1734072532|2024-12-13 01:48|2024-12-13|1734141600|2024-12-13 21:00|11.2|52.1|0|Clear|//cdn.weatherapi.com/weather/64x64/night/113.png|1000
+Bogota|Cundinamarca|Colombia|4.6|-74.0833|America/Bogota|1734072532|2024-12-13 01:48|2024-12-13|1734145200|2024-12-13 22:00|10.9|51.7|0|Partly cloudy|//cdn.weatherapi.com/weather/64x64/night/116.png|1003
+Bogota|Cundinamarca|Colombia|4.6|-74.0833|America/Bogota|1734072532|2024-12-13 01:48|2024-12-13|1734148800|2024-12-13 23:00|10.6|51.0|0|Partly cloudy|//cdn.weatherapi.com/weather/64x64/night/116.png|1003
+Bogota|Cundinamarca|Colombia|4.6|-74.0833|America/Bogota|1734072532|2024-12-13 01:48|2024-12-13|1734087600|2024-12-13 06:00|9.0|48.2|1|Mist|//cdn.weatherapi.com/weather/64x64/day/143.png|1030
+Bogota|Cundinamarca|Colombia|4.6|-74.0833|America/Bogota|1734072532|2024-12-13 01:48|2024-12-13|1734091200|2024-12-13 07:00|12.0|53.7|1|Partly cloudy|//cdn.weatherapi.com/weather/64x64/day/116.png|1003
+Bogota|Cundinamarca|Colombia|4.6|-74.0833|America/Bogota|1734072532|2024-12-13 01:48|2024-12-13|1734094800|2024-12-13 08:00|14.2|57.6|1|Patchy rain possible|//cdn.weatherapi.com/weather/64x64/day/176.png|1063
+Bogota|Cundinamarca|Colombia|4.6|-74.0833|America/Bogota|1734072532|2024-12-13 01:48|2024-12-13|1734098400|2024-12-13 09:00|15.1|59.1|1|Patchy rain possible|//cdn.weatherapi.com/weather/64x64/day/176.png|1063
+Bogota|Cundinamarca|Colombia|4.6|-74.0833|America/Bogota|1734072532|2024-12-13 01:48|2024-12-13|1734102000|2024-12-13 10:00|16.4|61.5|1|Patchy rain possible|//cdn.weatherapi.com/weather/64x64/day/176.png|1063
+Bogota|Cundinamarca|Colombia|4.6|-74.0833|America/Bogota|1734072532|2024-12-13 01:48|2024-12-13|1734105600|2024-12-13 11:00|18.0|64.4|1|Patchy rain possible|//cdn.weatherapi.com/weather/64x64/day/176.png|1063
+Bogota|Cundinamarca|Colombia|4.6|-74.0833|America/Bogota|1734072532|2024-12-13 01:48|2024-12-13|1734066000|2024-12-13 00:00|12.8|55.0|0|Patchy rain possible|//cdn.weatherapi.com/weather/64x64/night/176.png|1063
+Bogota|Cundinamarca|Colombia|4.6|-74.0833|America/Bogota|1734072532|2024-12-13 01:48|2024-12-13|1734069600|2024-12-13 01:00|12.5|54.5|0|Patchy rain possible|//cdn.weatherapi.com/weather/64x64/night/176.png|1063
+Bogota|Cundinamarca|Colombia|4.6|-74.0833|America/Bogota|1734072532|2024-12-13 01:48|2024-12-13|1734073200|2024-12-13 02:00|11.7|53.1|0|Patchy rain possible|//cdn.weatherapi.com/weather/64x64/night/176.png|1063
+Bogota|Cundinamarca|Colombia|4.6|-74.0833|America/Bogota|1734072532|2024-12-13 01:48|2024-12-13|1734076800|2024-12-13 03:00|10.8|51.5|0|Patchy rain possible|//cdn.weatherapi.com/weather/64x64/night/176.png|1063
+Bogota|Cundinamarca|Colombia|4.6|-74.0833|America/Bogota|1734072532|2024-12-13 01:48|2024-12-13|1734080400|2024-12-13 04:00|9.8|49.7|0|Mist|//cdn.weatherapi.com/weather/64x64/night/143.png|1030
+Bogota|Cundinamarca|Colombia|4.6|-74.0833|America/Bogota|1734072532|2024-12-13 01:48|2024-12-13|1734084000|2024-12-13 05:00|9.3|48.7|0|Mist|//cdn.weatherapi.com/weather/64x64/night/143.png|1030
+Lima|Lima|Peru|-12.05|-77.05|America/Lima|1734073870|2024-12-13 02:11|2024-12-13|1734130800|2024-12-13 18:00|20.4|68.6|1|Partly cloudy|//cdn.weatherapi.com/weather/64x64/day/116.png|1003
+Lima|Lima|Peru|-12.05|-77.05|America/Lima|1734073870|2024-12-13 02:11|2024-12-13|1734134400|2024-12-13 19:00|19.4|66.9|0|Partly cloudy|//cdn.weatherapi.com/weather/64x64/night/116.png|1003
+Lima|Lima|Peru|-12.05|-77.05|America/Lima|1734073870|2024-12-13 02:11|2024-12-13|1734138000|2024-12-13 20:00|19.1|66.4|0|Partly cloudy|//cdn.weatherapi.com/weather/64x64/night/116.png|1003
+Lima|Lima|Peru|-12.05|-77.05|America/Lima|1734073870|2024-12-13 02:11|2024-12-13|1734141600|2024-12-13 21:00|19.3|66.8|0|Partly cloudy|//cdn.weatherapi.com/weather/64x64/night/116.png|1003
+Lima|Lima|Peru|-12.05|-77.05|America/Lima|1734073870|2024-12-13 02:11|2024-12-13|1734145200|2024-12-13 22:00|19.4|66.8|0|Partly cloudy|//cdn.weatherapi.com/weather/64x64/night/116.png|1003
+Lima|Lima|Peru|-12.05|-77.05|America/Lima|1734073870|2024-12-13 02:11|2024-12-13|1734148800|2024-12-13 23:00|19.0|66.2|0|Partly cloudy|//cdn.weatherapi.com/weather/64x64/night/116.png|1003
+Lima|Lima|Peru|-12.05|-77.05|America/Lima|1734073870|2024-12-13 02:11|2024-12-13|1734087600|2024-12-13 06:00|18.8|65.8|1|Partly cloudy|//cdn.weatherapi.com/weather/64x64/day/116.png|1003
+Lima|Lima|Peru|-12.05|-77.05|America/Lima|1734073870|2024-12-13 02:11|2024-12-13|1734091200|2024-12-13 07:00|19.0|66.2|1|Partly cloudy|//cdn.weatherapi.com/weather/64x64/day/116.png|1003
+Lima|Lima|Peru|-12.05|-77.05|America/Lima|1734073870|2024-12-13 02:11|2024-12-13|1734094800|2024-12-13 08:00|19.6|67.2|1|Partly cloudy|//cdn.weatherapi.com/weather/64x64/day/116.png|1003
+Lima|Lima|Peru|-12.05|-77.05|America/Lima|1734073870|2024-12-13 02:11|2024-12-13|1734098400|2024-12-13 09:00|20.1|68.1|1|Partly cloudy|//cdn.weatherapi.com/weather/64x64/day/116.png|1003
+Lima|Lima|Peru|-12.05|-77.05|America/Lima|1734073870|2024-12-13 02:11|2024-12-13|1734102000|2024-12-13 10:00|20.3|68.6|1|Partly cloudy|//cdn.weatherapi.com/weather/64x64/day/116.png|1003
+Lima|Lima|Peru|-12.05|-77.05|America/Lima|1734073870|2024-12-13 02:11|2024-12-13|1734105600|2024-12-13 11:00|20.4|68.8|1|Partly cloudy|//cdn.weatherapi.com/weather/64x64/day/116.png|1003
+Lima|Lima|Peru|-12.05|-77.05|America/Lima|1734073870|2024-12-13 02:11|2024-12-13|1734109200|2024-12-13 12:00|20.5|69.0|1|Partly cloudy|//cdn.weatherapi.com/weather/64x64/day/116.png|1003
+Lima|Lima|Peru|-12.05|-77.05|America/Lima|1734073870|2024-12-13 02:11|2024-12-13|1734112800|2024-12-13 13:00|20.7|69.2|1|Partly cloudy|//cdn.weatherapi.com/weather/64x64/day/116.png|1003
+Lima|Lima|Peru|-12.05|-77.05|America/Lima|1734073870|2024-12-13 02:11|2024-12-13|1734116400|2024-12-13 14:00|21.3|70.3|1|Partly cloudy|//cdn.weatherapi.com/weather/64x64/day/116.png|1003
+Lima|Lima|Peru|-12.05|-77.05|America/Lima|1734073870|2024-12-13 02:11|2024-12-13|1734120000|2024-12-13 15:00|21.5|70.7|1|Sunny|//cdn.weatherapi.com/weather/64x64/day/113.png|1000
+Lima|Lima|Peru|-12.05|-77.05|America/Lima|1734073870|2024-12-13 02:11|2024-12-13|1734123600|2024-12-13 16:00|21.5|70.8|1|Sunny|//cdn.weatherapi.com/weather/64x64/day/113.png|1000
+Lima|Lima|Peru|-12.05|-77.05|America/Lima|1734073870|2024-12-13 02:11|2024-12-13|1734127200|2024-12-13 17:00|21.3|70.4|1|Sunny|//cdn.weatherapi.com/weather/64x64/day/113.png|1000
