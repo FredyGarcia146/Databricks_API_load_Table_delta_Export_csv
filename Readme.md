@@ -1,6 +1,7 @@
 # Databricks Community Edition - Api Table Delta and Export CSV
 
 Use this environment to practice and develop personal projects.
+![DataFlow](imgs/07_image.png)
 
 ## Create Account and Notebooks
 
